@@ -12,7 +12,9 @@ operations, I measured a speed-up of a factor of 10.
 
 ![GRA 1](pics/gra1.png) 
 
-![GRA 2](pics/gra2.png)  
+![GRA 2](pics/gra2.png)
+
+You can find my 3d graphics test programs [here.](./exe/)
 
 An 8087 is thus highly desirable for the Euro PC, and is realized with
 this project: 
