@@ -10,9 +10,9 @@ The 8087 was a real game changer for floating point operations. In my
 own tests of a 3D graphics programs making heavy use of floating point
 operations, I measured a speed-up of a factor of 10.
 
-![GRA 1](pics/gra1.jpg) 
+![GRA 1](pics/gra1.png) 
 
-![GRA 2](pics/gra2.jpg)  
+![GRA 2](pics/gra2.png)  
 
 An 8087 is thus highly desirable for the Euro PC, and is realized with
 this project: 
