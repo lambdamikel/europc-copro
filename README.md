@@ -39,7 +39,7 @@ determined that it should be straight-forward to add an 8087.
 
 ![FE 1](pics/euro-pc1.png)
 
-### Euro PC CPU Section and FE2010A Controller
+### Euro PC II CPU Section and FE2010A Controller
 
 ![CPU 2](pics/euro-pc2-cpu.png)
 
