@@ -21,7 +21,8 @@ this project:
 
 ![PCB 2](pics/pcb2.jpg) 
 
-In my tests, I successfull used a NEC V20 and the 8087-2 at 9.54 MHz without issues.
+In my tests, I successfully used a NEC V20 and the 8087-2 at 9.54 MHz
+in my Euro PC without issues.
 
 ![BIOS](pics/bios.jpg) 
 
@@ -46,23 +47,25 @@ determined that it should be straight-forward to add an 8087.
 
 ### Analysis & Board Schematics 
 
-As we can see, both machines use the same Farady Faraday FE2010A IBM
-XT chipset. All signals are available directly from the CPU socket in
+As we can see, both machines use the same Faraday FE2010A IBM XT
+chipset. All signals are available directly from the CPU socket in
 both machines, with one difference - the NPINT FE2010 output is
 connected to the 8087 NPINT pin in the Euro PC II, whereas it is
-simply connected to GND over a (keyboard solder) jumper in the Euro
-PC. I hence added a pin header to the extension board to route NPINT
-manually to the FE2010A if required:
+connected to GND in the Euro PC (over a PCB solder jumper). I hence
+added an NPINT pin header to the extension board to give users the
+option to manually route an NPINT cable from the extension board to
+the FE2010A pin if required:
 
 ![Schematics](pics/schematics.png)
 
 ![Layout](pics/board.png) 
 
-However, in my setup and experiments, I actually left NPINT of the
-8087 unconnected, and didn't change the FE2010A NPINT configuration
+However, in my setup and experiments, I actually left the NPINT 8087
+pin unconnected, and didn't change the FE2010A NPINT configuration
 either, as everything was working fine without it. Even the
-`MCPDiag.exe` 8087 diagnosis program found no issues with the
-configuration.
+`MCPDiag.exe` 8087 diagnosis program found no issues with this
+configuration. But you have the choice of routing your own cable if
+you choose to do so.
 
 ![DIAG](pics/diag.jpg)
 
