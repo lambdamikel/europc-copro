@@ -1,5 +1,19 @@
 # An 8087 Co-Pro Extension Board for the Schneider Euro PC  
 
+## Latest News
+
+### February 2025 
+
+Thanks to Hackaday (Jenny List from Hackaday) for [featuring my
+project on the frontpage!](https://hackaday.com/2025/02/17/a-forgotten-consumer-pc-becomes-a-floating-point-powerhouse/) 
+
+![Hackaday 1](pics/hackaday1.jpg)
+
+![Hackaday 2](pics/hackaday2.jpg)
+
+Here is the [Hackaday project page.](https://hackaday.io/project/202419-an-8087-co-processor-extension-board)
+
+
 ## Background & Problem
 
 The Schneider Euro PC isn't equipped with a 8087 coprocessor
@@ -76,5 +90,8 @@ you choose to do so.
 The Gerbers are [here.](./gerbers-v2.zip)
 
 Enjoy!
+
+
+
 
 ## Please leave a "Star" if you like and/or built this project!
