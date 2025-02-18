@@ -7,9 +7,9 @@
 Thanks to Hackaday (Jenny List from Hackaday) for [featuring my
 project on the frontpage!](https://hackaday.com/2025/02/17/a-forgotten-consumer-pc-becomes-a-floating-point-powerhouse/) 
 
-![Hackaday 1](pics/hackaday1.jpg)
+![Hackaday 1](pics/hackaday1.png)
 
-![Hackaday 2](pics/hackaday2.jpg)
+![Hackaday 2](pics/hackaday2.png)
 
 Here is the [Hackaday project page.](https://hackaday.io/project/202419-an-8087-co-processor-extension-board)
 
