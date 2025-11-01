@@ -4,10 +4,10 @@
 
 ### November 2025
 
-A user reported that he had to add extra bodge wires to VCC and GND
-and decoupling caps to make the card run more stable 9.54 MHz.
+A user reported that he had to add extra bodge wires to VCC and GND as
+well as decoupling caps to make the card run more stable at 9.54 MHz.
 
-I have hence rerouted the card - it has propose decoupling caps now,
+I have hence rerouted the card - it now has proper decoupling caps,
 and the power rails are much thicker.
 
 Here are the [updated Gerbers.](./gerbers-v3.zip)
