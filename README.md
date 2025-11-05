@@ -19,8 +19,10 @@ Here are the [updated Gerbers.](./gerbers-v3.zip)
 
 ![Rev. 3c](pics/board-v3-c.png)
 
-There are a few folks who have a hard time that my CoPro board is actually
-working - well, here is the proof. NEC V20 + 8087 CoPro @ 9.54 MHz:
+Honestly, none of this is really necessary. I have added two videos
+demonstrating that the first revision works fine, in two different
+EuroPCs in "good enough" condition.  Both are equipped with a **NEC
+V20** and the 8087 CoPro card, running at **9.54 MHz:**
 
 [Demo Video 1](https://youtu.be/3LQWV4543XM)
 
