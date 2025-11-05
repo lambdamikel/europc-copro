@@ -11,7 +11,7 @@ MHz.
 I have hence rerouted the card - it now has proper decoupling caps,
 and the power rails are much thicker.
 
-Here are the [updated Gerbers.](./gerbers-v3.zip)
+Here are the [updated Gerbers.](./gerbers-v3.1.zip)
 
 ![Rev. 3a](pics/board-v3-a.png)
 
