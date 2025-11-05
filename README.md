@@ -4,8 +4,9 @@
 
 ### November 2025
 
-A user reported that he had to add extra bodge wires to VCC and GND as
-well as decoupling caps to make the card run more stable at 9.54 MHz.
+A user reported that he had to add extra bodge wires to VCC and GND
+as well as decoupling caps to make the card run more stable at 9.54
+MHz.
 
 I have hence rerouted the card - it now has proper decoupling caps,
 and the power rails are much thicker.
@@ -17,6 +18,13 @@ Here are the [updated Gerbers.](./gerbers-v3.zip)
 ![Rev. 3b](pics/board-v3-b.png)
 
 ![Rev. 3c](pics/board-v3-c.png)
+
+There are a few folks who have a hard time that my CoPro board is actually
+working - well, here is the proof. NEC V20 + 8087 CoPro @ 9.54 MHz:
+
+[Demo Video 1](https://youtu.be/3LQWV4543XM)
+
+[Demo Video 2](https://youtu.be/0I_g4UcEDEU)
 
 ### February 2025 
 
