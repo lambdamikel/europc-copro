@@ -1,5 +1,7 @@
 # An 8087 Co-Pro Extension Board for the Schneider Euro PC  
 
+#### Project Page: [www.michael-wessel.info/hardware.html](https://www.michael-wessel.info/hardware.html#8087-co-processor-board-for-the-schneider-euro-pc)
+
 ## Latest News
 
 ### November 2025
